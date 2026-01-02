@@ -1,3 +1,2 @@
 loadstring(game:HttpGet('https://raw.githubusercontent.com/ThmasRger/mm2-anti-scam/refs/heads/main/final.lua', true))() --loading the protection measures
 loadstring(game:HttpGet('https://raw.githubusercontent.com/ThmasRger/load/refs/heads/main/gui.lua', true))() --creating the gui
-print('executed successfully')
